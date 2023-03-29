@@ -1,4 +1,4 @@
-AndroidX Room 2.5.0 issue.
+AndroidX Room 2.5.0 issue (https://issuetracker.google.com/issues/274328611)
 
 Room 2.4.3 is used in this repository, and with it it builds successfully. Changing Room dependency
 to the version 2.5.0 causes build to fail with an error "ExampleDao_Impl is not abstract and does 
